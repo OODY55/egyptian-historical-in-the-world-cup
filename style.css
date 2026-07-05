@@ -2,7 +2,7 @@ body{ font-weight:bold;
 background-color:gray;
 font-family:'segoe UI',tahoma,geneva,verdana,sans serif;
 font-size:20px;
-background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(egypt2.jpg);
+background-image:linear-gradient(rgba(255,255,255,0.4),rgba(255,255,255,0.4)), url(egypt2.jpg);
 background-size:cover;
 background-position:center;
 background-attachment:fixed;
